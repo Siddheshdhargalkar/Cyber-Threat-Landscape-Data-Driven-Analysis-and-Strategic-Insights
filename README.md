@@ -152,5 +152,4 @@ Contains 33 columns offering a multidimensional view of network and attack chara
 
 ---
 
-## 🗂️ Repository Contents
 
